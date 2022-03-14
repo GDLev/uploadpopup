@@ -1,2 +1,2 @@
 # ImageUploader Popup
-![Screenshot](firefox_pwhZpCaMm7.png )
+![Screenshot](screenshots/firefox_pwhZpCaMm7.png )
