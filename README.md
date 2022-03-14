@@ -1,6 +1,6 @@
 # ImageUploader Popup
 ![Screenshot](screenshots/firefox_pwhZpCaMm7.png )
-### Example backend (PHP)
+### Sample backend (PHP)
 ```php
 <?php
 $namef = $_POST['fname'];
