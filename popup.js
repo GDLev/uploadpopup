@@ -1,4 +1,3 @@
-
 const  uploadsrc = "upload.php";
 const successmsg = "Image has been successfully uploaded!";
 const  formtitle = "Image uploader"
@@ -48,7 +47,8 @@ Swal.fire({
     image = fetch(uploadsrc, {
         method: "POST", 
         body: formData
-     })
+    })
+    send()
     
 }
 }
