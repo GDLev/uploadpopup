@@ -1,16 +1,18 @@
 @import "https://cdn.jsdelivr.net/npm/@sweetalert2/theme-dark@5/dark.css";
 
-
+/* Optional */
 body {
     font-family: Arial, Helvetica, sans-serif;
     background-color: #222;
   }
-  
-  .file-upload {
+/* Optional */
+
+
+.file-upload {
     width: 80%;
     margin: 0 auto;
     padding: 20px;
-  }
+}
   
   
   
