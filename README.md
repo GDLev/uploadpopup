@@ -23,3 +23,5 @@ if ( move_uploaded_file($_FILES['file']['tmp_name'], $location) ) {
 ### Used packages:
 * sweetalert2
 * jQuery
+
+The above libraries are already included in the project! you don't need to install them
