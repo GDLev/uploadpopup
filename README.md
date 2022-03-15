@@ -18,3 +18,8 @@ if ( move_uploaded_file($_FILES['file']['tmp_name'], $location) ) {
 }
 ?>
 ```
+
+
+#### Used packages:
+* sweetalert2
+* jQuery
