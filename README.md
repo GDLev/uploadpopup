@@ -7,7 +7,6 @@
 
 <?php
 $namef = $_POST['fname'];
-$filename = $_FILES['file']['name'];
 $location = "upload/".$namef;
 
 
