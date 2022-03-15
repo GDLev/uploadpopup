@@ -1,6 +1,6 @@
 # ImageUploader Popup
-![Screenshot](screenshots/firefox_pwhZpCaMm7.png )
-![Screenshot](2022-03-15-13-50-43-Trim.gif )
+![](screenshots/firefox_pwhZpCaMm7.png )
+![](screenshots/2022-03-15-13-50-43-Trim.gif)
 
 ### Sample backend (PHP)
 ```php
