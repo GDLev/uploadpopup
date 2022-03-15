@@ -1,5 +1,3 @@
-
-
 const  uploadsrc = "upload.php";
 const successmsg = "Image has been successfully uploaded!";
 const  formtitle = "Image uploader"
