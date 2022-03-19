@@ -1,10 +1,13 @@
-const  uploadsrc = "upload.php";
+
 const successmsg = "Image has been successfully uploaded!";
 const  formtitle = "Image uploader"
 
 // kamehame-ha SimpleUploader compatibility
-const token = ""
-// const  uploadsrc = "/sharex";
+//const token = "test"
+//const  uploadsrc = "http://localhost/sharex";
+
+//Sample php
+const  uploadsrc = "upload.php";
 
 
 $(document).ready(function(){
@@ -46,6 +49,7 @@ Swal.fire({
     formData.append('somefile', aimage);
     formData.append('mime_type', aimage.type);
     formData.append('fname', fname);
+    formData.append('token', token);
     
     image = fetch(uploadsrc, {
         method: "POST", 
