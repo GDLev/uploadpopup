@@ -2,6 +2,9 @@ const  uploadsrc = "upload.php";
 const successmsg = "Image has been successfully uploaded!";
 const  formtitle = "Image uploader"
 
+// kamehame-ha SimpleUploader compatibility
+const token = ""
+// const  uploadsrc = "/sharex";
 
 
 $(document).ready(function(){
@@ -40,7 +43,7 @@ Swal.fire({
     } else {
     
     let formData = new FormData();
-    formData.append('image', aimage);
+    formData.append('somefile', aimage);
     formData.append('mime_type', aimage.type);
     formData.append('fname', fname);
     
