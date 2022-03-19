@@ -27,7 +27,7 @@ if ( move_uploaded_file($_FILES['somefile']['tmp_name'], $location) ) {
 ?>
 ```
 
-
-
+### Support
+All my codes are open source. If you want to support me, recommend my code or give a star to projects you like
 
 
