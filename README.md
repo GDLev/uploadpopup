@@ -25,4 +25,4 @@ if ( move_uploaded_file($_FILES['somefile']['tmp_name'], $location) ) {
 
 The above libraries are already included in the project! you don't need to install them
 
-<span style="color:redy">this project is fully compatible with SimpleUploader created by kamehame-ha [![url](https://github.com/kamehame-ha/simple-uploader)]</span>
+<span style="color:red">this project is fully compatible with SimpleUploader created by kamehame-ha [![url](https://github.com/kamehame-ha/simple-uploader)]</span>
