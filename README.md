@@ -1,9 +1,16 @@
 # ImageUploader Popup
 ![](screenshots/2022-03-15-13-50-43-Trim.gif)
 
-this project is fully compatible with SimpleUploader created by kamehame-ha [![url](https://github.com/kamehame-ha/simple-uploader)]
+### Packages
+* sweetalert2
+* jQuery
 
-you can also use this sample PHP code:
+The above libraries are already included in the project! you don't need to install them
+
+### Backend
+* this project is fully compatible with SimpleUploader created by kamehame-ha [![url](https://github.com/kamehame-ha/simple-uploader)]
+
+* you can also use this sample PHP code:
 ```php
 // upload.php
 
@@ -21,10 +28,6 @@ if ( move_uploaded_file($_FILES['somefile']['tmp_name'], $location) ) {
 ```
 
 
-### Used packages:
-* sweetalert2
-* jQuery
 
-The above libraries are already included in the project! you don't need to install them
 
 
