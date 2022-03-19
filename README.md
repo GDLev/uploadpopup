@@ -1,7 +1,7 @@
 # ImageUploader Popup
 ![](screenshots/2022-03-15-13-50-43-Trim.gif)
 ### Important
-This project is not a ready-made photo sharing site! This is just a popup that you can add to your website. Of course, you can block the possibility of closing the popup and use the sample html page included in the project, but this is not a good solution... To display the popup, import all libraries (you will find them in the sample html file) and call the popup with the ```js uploadFile();``` function
+This project is not a ready-made photo sharing site! This is just a popup that you can add to your website. Of course, you can block the possibility of closing the popup and use the sample html page included in the project, but this is not a good solution... To display the popup, import all libraries (you will find them in the sample html file) and call the popup with the ```uploadFile();``` function
 
 ### Packages
 * sweetalert2
