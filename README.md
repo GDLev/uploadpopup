@@ -1,6 +1,10 @@
 # ImageUploader Popup
 ![](screenshots/2022-03-15-13-50-43-Trim.gif)
 
+this project is fully compatible with SimpleUploader created by kamehame-ha [![url](https://github.com/kamehame-ha/simple-uploader)]
+
+you can also use this sample PHP code
+
 ### Sample backend (PHP)
 ```php
 // upload.php
@@ -25,4 +29,4 @@ if ( move_uploaded_file($_FILES['somefile']['tmp_name'], $location) ) {
 
 The above libraries are already included in the project! you don't need to install them
 
-this project is fully compatible with SimpleUploader created by kamehame-ha [![url](https://github.com/kamehame-ha/simple-uploader)]
+
