@@ -4,7 +4,6 @@
 this project is fully compatible with SimpleUploader created by kamehame-ha [![url](https://github.com/kamehame-ha/simple-uploader)]
 
 you can also use this sample PHP code
-### Sample backend (PHP)
 ```php
 // upload.php
 
