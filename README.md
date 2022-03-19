@@ -10,7 +10,7 @@ $namef = $_POST['fname'];
 $location = "upload/".$namef;
 
 
-if ( move_uploaded_file($_FILES['file']['tmp_name'], $location) ) { 
+if ( move_uploaded_file($_FILES['somefile']['tmp_name'], $location) ) { 
   echo $namef; 
 } else { 
   echo 'Failure'; 
@@ -24,3 +24,5 @@ if ( move_uploaded_file($_FILES['file']['tmp_name'], $location) ) {
 * jQuery
 
 The above libraries are already included in the project! you don't need to install them
+
+this project is fully compatible with SimpleUploader created by kamehame-ha ![url](https://github.com/kamehame-ha/simple-uploader)
