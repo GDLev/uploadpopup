@@ -10,7 +10,7 @@ This project is not a ready-made photo sharing site! This is just a popup that y
 The above libraries are already included in the project! you don't need to install them
 
 ### Backend
-* this project is fully compatible with SimpleUploader created by kamehame-ha: ![Click!](https://github.com/kamehame-ha/simple-uploader)
+* this project is fully compatible with SimpleUploader created by kamehame-ha: [Click!](https://github.com/kamehame-ha/simple-uploader)
 
 * you can also use this sample PHP code:
 ```php
